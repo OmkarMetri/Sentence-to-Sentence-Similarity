@@ -17,5 +17,5 @@ Source : https://www.kaggle.com/c/quora-question-pairs/data
 
 ## Results
 - Log Loss takes into account the uncertainty of the prediction based on how much it varies from the actual label. This gives us a more nuanced view into the performance of our model
-- We have achieved an logloss accuracy of 3.92 for XGBoost, 2.20 for XGBoost with LSTM embeddings, 2.33 for random forest classifier and 2.01 for SVM 
+- Achieved an logloss accuracy of 3.92 for XGBoost, 2.20 for XGBoost with LSTM embeddings, 2.33 for random forest classifier and 2.01 for SVM 
 - SVM gives us the minimized logloss.
